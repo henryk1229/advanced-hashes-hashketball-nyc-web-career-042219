@@ -253,12 +253,7 @@ end
           
           
 
-#  i = 0 
-#  until array_rebounds.length > i  
-#    rebounds_hash[array_players[i]] = "#{array_rebounds[i]}" 
-#    i += 1 
-#  end
-#  rebounds_hash        
+  
  
  
 
